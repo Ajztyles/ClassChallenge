@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ClassChallenge\bin\Debug\net6.0\ClassChallenge.exe
+C:\Users\User\Desktop\ClassChallenge\bin\Debug\net6.0\ClassChallenge.deps.json
+C:\Users\User\Desktop\ClassChallenge\bin\Debug\net6.0\ClassChallenge.runtimeconfig.json
+C:\Users\User\Desktop\ClassChallenge\bin\Debug\net6.0\ClassChallenge.dll
+C:\Users\User\Desktop\ClassChallenge\bin\Debug\net6.0\ClassChallenge.pdb
+C:\Users\User\Desktop\ClassChallenge\obj\Debug\net6.0\ClassChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ClassChallenge\obj\Debug\net6.0\ClassChallenge.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ClassChallenge\obj\Debug\net6.0\ClassChallenge.AssemblyInfo.cs
+C:\Users\User\Desktop\ClassChallenge\obj\Debug\net6.0\ClassChallenge.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ClassChallenge\obj\Debug\net6.0\ClassChallenge.dll
+C:\Users\User\Desktop\ClassChallenge\obj\Debug\net6.0\refint\ClassChallenge.dll
+C:\Users\User\Desktop\ClassChallenge\obj\Debug\net6.0\ClassChallenge.pdb
+C:\Users\User\Desktop\ClassChallenge\obj\Debug\net6.0\ClassChallenge.genruntimeconfig.cache
+C:\Users\User\Desktop\ClassChallenge\obj\Debug\net6.0\ref\ClassChallenge.dll
