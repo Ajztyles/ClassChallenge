@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ClassChallenge\AssignmentChallenge\bin\Debug\net6.0\AssignmentChallenge.exe
+C:\Users\User\Desktop\ClassChallenge\AssignmentChallenge\bin\Debug\net6.0\AssignmentChallenge.deps.json
+C:\Users\User\Desktop\ClassChallenge\AssignmentChallenge\bin\Debug\net6.0\AssignmentChallenge.runtimeconfig.json
+C:\Users\User\Desktop\ClassChallenge\AssignmentChallenge\bin\Debug\net6.0\AssignmentChallenge.dll
+C:\Users\User\Desktop\ClassChallenge\AssignmentChallenge\bin\Debug\net6.0\AssignmentChallenge.pdb
+C:\Users\User\Desktop\ClassChallenge\AssignmentChallenge\obj\Debug\net6.0\AssignmentChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ClassChallenge\AssignmentChallenge\obj\Debug\net6.0\AssignmentChallenge.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ClassChallenge\AssignmentChallenge\obj\Debug\net6.0\AssignmentChallenge.AssemblyInfo.cs
+C:\Users\User\Desktop\ClassChallenge\AssignmentChallenge\obj\Debug\net6.0\AssignmentChallenge.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ClassChallenge\AssignmentChallenge\obj\Debug\net6.0\AssignmentChallenge.sourcelink.json
+C:\Users\User\Desktop\ClassChallenge\AssignmentChallenge\obj\Debug\net6.0\AssignmentChallenge.dll
+C:\Users\User\Desktop\ClassChallenge\AssignmentChallenge\obj\Debug\net6.0\refint\AssignmentChallenge.dll
+C:\Users\User\Desktop\ClassChallenge\AssignmentChallenge\obj\Debug\net6.0\AssignmentChallenge.pdb
+C:\Users\User\Desktop\ClassChallenge\AssignmentChallenge\obj\Debug\net6.0\AssignmentChallenge.genruntimeconfig.cache
+C:\Users\User\Desktop\ClassChallenge\AssignmentChallenge\obj\Debug\net6.0\ref\AssignmentChallenge.dll
